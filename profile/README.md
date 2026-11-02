@@ -1,6 +1,6 @@
 # Forchetto
 
-Multi-tenant restaurant management SaaS for independent restaurants, built by [BocoLabs](https://www.bocolabs.com).
+Multi-tenant restaurant management SaaS for independent restaurants.
 
 > Source code is private. The architecture is outlined below; code walkthroughs are available on request.
 
